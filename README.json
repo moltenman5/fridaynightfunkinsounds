@@ -1,2 +1,10 @@
-# fridaynightfunkinsounds
-for audio loader on decky
+{
+  "name": "Friday Night Funkin' Sounds",
+  "description": "Sounds from th popular rhythm game Friday Night Funkin'!",
+  "author": "moltenman5",
+  "version": "v1.0",
+  "manifest_version": 2,
+  "music": false,
+  "ignore": [],
+  "mappings": {}
+}
